@@ -1,2 +1,8 @@
 .app {
+  text-align: center;
+  color: deeppink;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  & > ul {
+    list-style: none;
+  }
 }
